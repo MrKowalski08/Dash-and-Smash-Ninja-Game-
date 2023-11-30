@@ -5,10 +5,10 @@ channel => https://www.youtube.com/@DaFluffyPotato
 tutorial => https://www.youtube.com/watch?v=2gABYM5M0ww&t
 
 **Controls**:
-W - jump
-D - right
-A - left
-SPACE - dash
+W - jump |
+D - right |
+A - left |
+SPACE - dash |
 
 **Note**
 This project was made for school half term and it learns me alot about programing in python and game development. 
