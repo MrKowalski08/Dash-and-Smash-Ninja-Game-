@@ -2,7 +2,6 @@
 For first. Originally this game was created by DaFluffyPotato, link to his channel and tutorial is here:
 
 channel => https://www.youtube.com/@DaFluffyPotato
-
 tutorial => https://www.youtube.com/watch?v=2gABYM5M0ww&t
 
 **Controls**:
